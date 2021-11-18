@@ -1,0 +1,5 @@
+he git pull command is a combination of git fetch which fetches the recent commits in the local repository and git merge, which will merge the branch from a remote to a local branch also 'remote_name' is the repository name and 'branch_name' is the name of the specific branch.
+
+You"ll be looking at two different ways on how to use the PULL request.
+
+PULL Request through Command Line.
