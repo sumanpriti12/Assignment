@@ -1,0 +1,2 @@
+You can create a commit message by git commit -m 'your message', which adds the change to the local repository.
+git commit uses '-m' as a flag for a message to set the commits with the content where the full description is included, and a message is written in an imperative sentence up to 50 characters long and defining "what was changed", and "why was the change made".
