@@ -1,2 +1,10 @@
 Use git add . in your bash to add all the files to the given folder.
 Use git status in your bash to view all the files which are going to be staged to the first commit.
+
+Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
+
+Do some work on a website.
+
+Create a branch for a new user story you’re working on.
+
+Do some work in that branch.
